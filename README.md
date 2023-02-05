@@ -1,5 +1,5 @@
 # ConnectTheShots
-Submission to the GMTK 2021 Game Jam
+Submission to the GMTK 2021 Game Jam made in 48hr on Unity C#
 
 
 Download : 
