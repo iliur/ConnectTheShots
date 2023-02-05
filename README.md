@@ -7,5 +7,6 @@ Download :
 
 Steps: 
 1. Download ZIP file
-2. Extract and open the .exe file
-3. Enjoy
+2. Extract the ZIP file
+3. open the ConnectTheShots.exe file
+4. Enjoy
